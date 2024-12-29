@@ -1,0 +1,4 @@
+# [broadlink.com]
+127.0.0.1 10189main.broadlink.com.cn
+127.0.0.1 10189backup.broadlink.com.cn
+127.0.0.1 10189tcp.broadlink.com.cn
